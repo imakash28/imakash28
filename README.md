@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEAPuFywpLfSA/profile-displaybackgroundimage-shrink_350_1400/0/1713162086801?e=1722470400&v=beta&t=LSytxNQzLq2VN-fcB8Ign7UyVyxPPScyqamrYlri6Jg)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEAPuFywpLfSA/profile-displaybackgroundimage-shrink_350_1400/0/1713162086801?e=1722470400&v=beta&t=LSytxNQzLq2VN-fcB8Ign7UyVyxPPScyqamrYlri6Jg)
 <h3 align="center">Passionate Java Developer | Building Scalable Applications with Clean Code and Innovative Solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5603AQG_k06Y87Qk4w/profile-displayphoto-shrink_400_400/0/1716032694303?e=1722470400&v=beta&t=vuLa6dbfZQsnUJPFVxh0ecpevPfnv-80y6T1y9kwkYc"
 
