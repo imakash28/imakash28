@@ -1,16 +1,14 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQEAPuFywpLfSA/profile-displaybackgroundimage-shrink_350_1400/0/1713162086801?e=1722470400&v=beta&t=LSytxNQzLq2VN-fcB8Ign7UyVyxPPScyqamrYlri6Jg)
 <h3 align="center">Passionate Java Developer | Building Scalable Applications with Clean Code and Innovative Solutions</h3>
-<img align="right" alt="Coding" width="500" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"
+<img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imakash28&label=Profile%20views&color=0e75b6&style=flat" alt="imakash28" /> </p>
 
-- 🔭 I’m currently For [Matilda Cloud Pvt. Ltd.](https://www.matildacloud.com)
+- 🔭 I’m currently working for [Matilda Cloud Pvt. Ltd.](https://www.matildacloud.com)
 
-- 🌱 I’m currently learning **Golang, AWS, System Design, Design Patterns**
+- 🌱 I’m currently learning **Golang, AWS**
 
-- 👯 I'm working on [Matilda Optimize](https://www.matildacloud.com/matilda-optimize/)
-
-- 🤝 I’m working on [Matilda Discovery](https://www.matildacloud.com/matilda-discover/)
+- 👨‍💻 I'm working on product based Projects [Matilda Optimize](https://www.matildacloud.com/matilda-optimize/), [Matilda Discovery](https://www.matildacloud.com/matilda-discover/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/imakash28?tab=repositories](https://github.com/imakash28?tab=repositories)
 
